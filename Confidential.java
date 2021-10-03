@@ -1,6 +1,6 @@
 /*
 
-This project is confidential and should not be disclosed publically for security reasons.
+This project is confidential and should not be disclosed publicaly for security reasons.
 But you can see the demo from the Read me section.
 Thank You....
 
